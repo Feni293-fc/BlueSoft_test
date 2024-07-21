@@ -1,0 +1,6 @@
+@BlueSoft_test_HostAddress = http://localhost:5197
+
+GET {{BlueSoft_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
